@@ -30,3 +30,8 @@ func ReadNumber(message string) (float64) {
 	}
 	return num
 }
+
+
+func main() {
+	fmt.Printf("Пипи")
+}
